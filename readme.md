@@ -10,10 +10,10 @@ Do a website that talks about The Jedi Order
 
 In general my website is defined by:
 
-<header>: Where is defined my navegation bar using <ul> and also has my <h1> tag for SEO;
-<video>: where is defined my video loop for my background and also a static <img> when the browser does not suport <video>;
-<div>: Is the last section of my website, where is my text and also a <form> on the page contact.html;
-<form>: Where you can find the <label>, <input> and <button> tags composing a html form (only on page contact.html).
+- header tag: Where is defined my navegation bar using ul tag and also has my h1 tag for SEO;
+- video tag: where is defined my video loop for my background and also a static img when the browser does not suport video tag;
+- div tag: Is the last section of my website, where is my text and also a <form> on the page contact.html;
+- form tag: Where you can find the label tag, input tags and button tag composing a html form (only on page contact.html).
 
 ## Hope you liked it! 🤞
 
