@@ -1,7 +1,7 @@
 # Welcome! 📜
 
 This is my **Star Wars Website**! Nice to have you here.
-### link to my website: 
+### link to my website: https://jedi-temple.netlify.app/
 
 ## Objective ☕️
 
