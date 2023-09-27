@@ -19,7 +19,7 @@ Do a desktop website using HTML and CSS.
 
 ### Considering CSS structure, in general my website is defined by
 - <strong>* Selector</strong> ➡ Defining default attributes like margin, padding, transition box-sizing and fonts. 
-I'm also using classes and IDs to definy the style. Using '::hover' to define hover actions with diferent colors, 'display:flex;' to align items and 'position:absolute;' to overlay some elements. 
+- I'm also using classes and IDs to definy the style. Using '::hover' to define hover actions with diferent colors, 'display:flex;' to align items and 'position:absolute;' to overlay some elements. 
 
 ## Hope you liked it! 🤞
 
