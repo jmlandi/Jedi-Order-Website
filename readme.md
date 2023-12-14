@@ -5,7 +5,7 @@ This is my **Star Wars Website**! Nice to have you here.
 
 ## Objective ☕️
 
-Do a desktop website using HTML and CSS.
+Do a desktop website using HTML and CSS (College task)
 
 ## HTML Tags 🛠
 
